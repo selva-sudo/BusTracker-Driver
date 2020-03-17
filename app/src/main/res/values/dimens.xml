@@ -1,0 +1,35 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="login_iv_margin">20dp</dimen>
+    <dimen name="et_login_email_margin">75dp</dimen>
+    <dimen name="et_login_password">40dp</dimen>
+    <dimen name="btn_login_margin">45dp</dimen>
+    <dimen name="tv_login_sign_up_margin">50dp</dimen>
+    <dimen name="recycler_section_header_height">35dp</dimen>
+    <dimen name="civ_size">96dp</dimen>
+    <dimen name="civ_margin_top">124dp</dimen>
+    <dimen name="civ_border_width">2dp</dimen>
+    <dimen name="size_0dp">0dp</dimen>
+    <dimen name="email_top_margin">120dp</dimen>
+    <dimen name="email_side_margin">15dp</dimen>
+    <dimen name="margin_52dp">52dp</dimen>
+    <dimen name="txt_link_margin">56dp</dimen>
+    <dimen name="default_margin">8dp</dimen>
+    <dimen name="login_btn_side_padding">35dp</dimen>
+    <dimen name="pwd_top_margin">30dp</dimen>
+    <dimen name="new_contact_text_size">30sp</dimen>
+    <dimen name="margin_36dp">36dp</dimen>
+    <dimen name="drawable_padding">10dp</dimen>
+    <dimen name="tv_margin_new_contact">44dp</dimen>
+    <dimen name="btn_top_bottom_margin">30dp</dimen>
+    <dimen name="padding_5dp">5dp</dimen>
+    <dimen name="rv_bottom_margin">20dp</dimen>
+    <dimen name="contact_item_margin">10dp</dimen>
+    <dimen name="tv_item_phone_margin">20dp</dimen>
+    <dimen name="tv_item_name_padding">5dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="group_item_text_size">25sp</dimen>
+    <dimen name="group_item_margin">20dp</dimen>
+</resources>
